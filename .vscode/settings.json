@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/kimi/anaconda3/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.prospectorEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.flake8Enabled": true
+}
